@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">👋 Hi, I'm Hanavaro7451</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_ID" alt="Avatar" width="160" height="160" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/Hanavaro7451" alt="Avatar" width="160" height="160" style="border-radius: 50%;" />
 </p>
 
 ## 👀 About Me
