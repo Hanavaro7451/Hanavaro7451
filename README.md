@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👀 About Me
 
-Hi! I'm [Stepan], a [Python backend developer].
+Hi! I'm Stepan, a Python backend developer.
 
 - 🌱 Currently learning all about backend.
 - 💻 Passionate about python.
@@ -24,9 +24,9 @@ Hi! I'm [Stepan], a [Python backend developer].
 
 ## 📫 Contact Me
 
-- **Email:** [stepan-ivanov-2005@bk.ru]
-- **Telegram:** [@fiendmeplz]
-- **Discord:** [https://discordapp.com/users/_ginesys_exp_]
+- **Email:** stepan-ivanov-2005@bk.ru
+- **Telegram:** @fiendmeplz
+- **Discord:** https://discordapp.com/users/_ginesys_exp_
 
 ## ⭐️ Wish
 
