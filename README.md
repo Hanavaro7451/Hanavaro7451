@@ -3,14 +3,14 @@ HanaVaro7451/HanaVaro7451 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">👋 Hi, I'm HanaVaro7451</h1>
+<h1 align="center">👋 Hi, I'm Hanavaro7451</h1>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR_ID" alt="Avatar" width="160" height="160" style="border-radius: 50%;" />
 </p>
 
 ## 👀 About Me
 
-Hi! I'm [Your Name or Nickname], a [your role, e.g., *developer, student, tech enthusiast*].
+Hi! I'm [Stepan], a [Python backend developer].
 
 - 🌱 Currently learning all about backend.
 - 💻 Passionate about python.
